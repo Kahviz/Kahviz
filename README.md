@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on BoronGameEngine and i try to commit every day<br>I’m looking for help with my engine<br>I'm currently learning c++,dx11 and vulkan<br>Ask me about BoronGameEngine<br>Fun fact i dont eat boron
+I’m currently working on BoronGameEngine and i try to commit every day<br>I’m looking for help with my engine<br>I'm currently learning c++,DirectX11 and vulkan<br>Ask me about BoronGameEngine<br>Fun fact i dont eat boron
 
 
 ## 🌐 Socials:
